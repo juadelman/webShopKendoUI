@@ -1,0 +1,2 @@
+# webShopKendoUI
+Angular 8
